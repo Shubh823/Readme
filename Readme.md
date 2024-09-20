@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubh823&label=Profile%20views&color=0e75b6&style=flat" alt="shubh823" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubh823" alt="shubh823" /></a> </p>
 
 - 🔭 I have completed project on [Spotify Clone](https://github.com/Shubh823/Spotify-Clone)
 
