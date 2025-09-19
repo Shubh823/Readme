@@ -89,6 +89,26 @@ AI-powered career growth platform with:
 
 ---
 
+## Leet Code Stats
+
+<p align="left">
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=PacemakerX&theme=tokyonight" alt="LeetCode Badges" width="400" height="100%" />
+  <img src="https://leetcard.jacoblin.cool/PacemakerX?ext=heatmap" alt="LeetCode Heatmap" width="400" />
+</p>
+
+## Feel free to connect with me!
+
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="750">
+    <br>
+  <a href="mailto:sparsh.officialwork@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-sparsh.officialwork@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/sparshsoni">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+</p>
+
 ## 🌐 Connect with Me  
 
 <p align="center">
