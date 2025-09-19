@@ -92,8 +92,8 @@ AI-powered career growth platform with:
 ## Leet Code Stats  
 
 <p align="left">
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=shubh823&theme=tokyonight" alt="LeetCode Badges" width="400" height="100%" />
-  <img src="https://leetcard.jacoblin.cool/shubh823?ext=heatmap" alt="LeetCode Heatmap" width="400" />
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=Shubham82p&theme=tokyonight" alt="LeetCode Badges" width="400" height="100%" />
+  <img src="https://leetcard.jacoblin.cool/Shubham82p?ext=heatmap" alt="LeetCode Heatmap" width="400" />
 </p>
 
 
